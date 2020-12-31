@@ -10,11 +10,10 @@
 
   * [开通UEDN服务](/uedn/guide/open)
 
-  * [创建VM](/uedn/jianjie/create)
-  * [VM详情](/uedn/jianjie/list)
-  * [镜像管理](/uedn/jianjie/jingx)
-  * [子网管理](/uedn/jianjie/ziwang)
-  * [外网防火墙](/uedn/jianjie/wall)
+  * [创建VM](/uedn/guide/create)
+  * [VM详情](/uedn/guide/list)
+  * [镜像管理](/uedn/guide/jingx)
+  * [子网管理](/uedn/guide/ziwang)
+  * [外网防火墙](/uedn/guide/wall)
 
 * [产品价格](/uedn/price)    
-
