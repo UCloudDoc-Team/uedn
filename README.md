@@ -8,8 +8,8 @@
   
 * [使用指南](/uedn/guide)
 
-  * [开通UEC服务](/uedn/guide/open)
 
+  * [开通UEC服务](/uedn/guide/open)
   * [创建VM](/uedn/guide/create)
   * [VM详情](/uedn/guide/list)
   * [镜像管理](/uedn/guide/jingx)
