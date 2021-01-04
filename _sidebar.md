@@ -4,7 +4,7 @@
   * [产品简介](/uedn/jianjie/intro)
   * [产品优势](/uedn/jianjie/youshi)
 * 使用指南
-  * [开通UEDN服务](/uedn/guide/open)
+  * [开通UEC服务](/uedn/guide/open)
   * [创建VM](/uedn/guide/create)
   * [VM详情](/uedn/guide/list)
   * [镜像管理](/uedn/guide/jingx)
