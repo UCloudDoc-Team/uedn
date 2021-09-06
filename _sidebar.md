@@ -4,8 +4,8 @@
   * [什么是UEC边缘计算](/uedn/introduction/intro-uec)
   * [产品优势](/uedn/introduction/youshi)
   * [使用场景](/uedn/introduction/application)
-  * [使用须知](/uedn/introduction/notice)
   * [基本概念](/uedn/introduction/concept)
+  * [使用须知](/uedn/introduction/notice)
 * 产品计费
   * [计费说明](/uedn/billing_instructions/billing_info)
   * [计算资源计费](/uedn/billing_instructions/billing_compute)
