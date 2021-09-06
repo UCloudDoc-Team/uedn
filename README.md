@@ -16,8 +16,8 @@
 
 * 使用指南
 
-  * [开通UEC服务](/uedn/guide/open)
   * [快速上手](/uedn/guide/rumen)
+  * [开通UEC服务](/uedn/guide/open)
   * [创建边缘节点](/uedn/guide/create)
   * [节点详情](/uedn/guide/list)
   * [镜像管理](/uedn/guide/jingx)
