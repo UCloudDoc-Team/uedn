@@ -1,7 +1,7 @@
 
 * [概览](/uedn/README)
 * 产品简介
-  * [什么是UEC边缘计算](/uedn/introduction/intro-uec)
+  * [什么是边缘计算UEC](/uedn/introduction/intro-uec)
   * [产品优势](/uedn/introduction/youshi)
   * [使用场景](/uedn/introduction/application)
   * [基本概念](/uedn/introduction/concept)
