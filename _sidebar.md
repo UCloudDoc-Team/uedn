@@ -10,6 +10,7 @@
   * [计费说明](/uedn/billing_instructions/billing_info)
   * [计算资源计费](/uedn/billing_instructions/billing_compute)
   * [带宽资源计费](/uedn/billing_instructions/billing_net)
+  * [托管资源计费](/uedn/billing_instructions/billing_idc)
   * [欠费说明](/uedn/billing_instructions/billing_fee)
 * 使用指南
   * [快速上手](/uedn/guide/rumen)
