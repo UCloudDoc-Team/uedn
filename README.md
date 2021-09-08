@@ -25,8 +25,9 @@
   * [子网管理](/uedn/guide/ziwang)
   * [外网防火墙](/uedn/guide/wall)
 
+* API参考
+  * [API文档](/uedn/api/api)
 * 常见问题
-
   * [FAQ](/uedn/FAQ/question)
 
 * 相关协议
