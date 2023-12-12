@@ -12,7 +12,7 @@ UEC边缘计算提供可弹性伸缩的计算服务，通过UCloud自建的上�
 
 
 ###  什么是边缘计算UEC
-UCloud基于边缘机房和基础网络，为客户提供边缘的计算资源和带宽资源，通过将业务部署在离用户最近的边缘节点，降低用户的访问延时和业务的整体部署成本，提升业务服务质量。边缘计算UEC提供边缘计算虚拟机UEC-VM（UCloud Edge Computing-Virtual Machine）、边缘计算容器引擎（UCloud Edge Computing-Container Engine）和边缘计算物理机UEC-PM（UCloud Edge Computing-Physical Machine）。
+UCloud基于边缘机房和基础网络，为客户提供边缘的计算资源和带宽资源，通过将业务部署在离用户最近的边缘节点，降低用户的访问延时和业务的整体部署成本，提升业务服务质量。边缘计算UEC提供边缘计算虚拟机UEC-VM（UCloud Edge Computing-Virtual Machine）。
 
 
 
